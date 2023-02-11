@@ -1,4 +1,4 @@
 hello world
-lalalal
 nihao
->>>>>>> commit 4 in main branch
+nihao
+hello world
